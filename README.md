@@ -4,7 +4,6 @@
 
 A ✨ sleek and responsive portfolio website ✨ to showcase your work, skills, and story.
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=PortfolioForge+Screenshot)
 
 ## 🚀 Features
 - 🖼️ Interactive project showcase
